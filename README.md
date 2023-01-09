@@ -21,11 +21,11 @@
     <!-- - 😄 Pronouns: ... -->
     <!-- - ⚡ Fun fact: ... -->
 
-<div>
+<!-- <div>
   <a href="https://github.com/nearmaick">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nearmaick&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nearmaick&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
+</div> -->
 
 ## 🛠 &nbsp;Tech Stack
 
